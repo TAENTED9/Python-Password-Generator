@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Environment variables file
+.env
+
+# Ignore editor/project files
+.vscode/
